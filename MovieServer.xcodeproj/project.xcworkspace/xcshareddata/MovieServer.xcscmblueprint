@@ -1,5 +1,5 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "91CF19801797B957666C096B5D73719A452A0E83+++882EC41",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "333032CAEECD0114B161D5453552537A257267CB+++882EC41",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
@@ -17,15 +17,15 @@
     "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++AE29D06" : 9223372036854775807,
     "013355313FF9FF2B55EA1241A5D12353638D9AC3+++A5EF3E1" : 9223372036854775807,
     "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++9A0832F" : 9223372036854775807,
-    "91CF19801797B957666C096B5D73719A452A0E83+++882EC41" : 9223372036854775807,
     "65880DAFEE5F57D1D1C181560E763EECFD96B06D+++5CADB65" : 9223372036854775807,
     "DCA698EAAA175C2796E06D7F52A4609033E8DEB9+++5463D1D" : 9223372036854775807,
+    "333032CAEECD0114B161D5453552537A257267CB+++882EC41" : 9223372036854775807,
     "748C9296F4CFA6FB6918A0C73ECFD0DCCA1E2109+++371A18D" : 9223372036854775807,
     "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++97D2B5B" : 9223372036854775807,
     "9948E95A70F754B78E92114BF205DC946294AF5D+++A40725D" : 9223372036854775807,
     "F024B372FCFF470DA20DD02157DAACC2E58B7655+++5AB2AE1" : 9223372036854775807,
-    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++FD5DAD5" : 9223372036854775807,
-    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++213BF40" : 9223372036854775807
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++213BF40" : 9223372036854775807,
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++FD5DAD5" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FF83A26B-69F2-4C6A-80FA-BA5D971B226C",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
@@ -42,15 +42,15 @@
     "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++AE29D06" : "MovieServer\/.build\/checkouts\/engine.git-3311994267206676365\/",
     "013355313FF9FF2B55EA1241A5D12353638D9AC3+++A5EF3E1" : "MovieServer\/.build\/checkouts\/tls.git-2678149690400510061\/",
     "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++9A0832F" : "MovieServer\/.build\/checkouts\/vapor.git-5492988889259800272\/",
-    "91CF19801797B957666C096B5D73719A452A0E83+++882EC41" : "MovieServer\/",
     "65880DAFEE5F57D1D1C181560E763EECFD96B06D+++5CADB65" : "MovieServer\/.build\/checkouts\/fluent.git-6251908308727715749\/",
     "DCA698EAAA175C2796E06D7F52A4609033E8DEB9+++5463D1D" : "MovieServer\/.build\/checkouts\/random.git--3118593962244350674\/",
+    "333032CAEECD0114B161D5453552537A257267CB+++882EC41" : "MovieServer\/",
     "748C9296F4CFA6FB6918A0C73ECFD0DCCA1E2109+++371A18D" : "MovieServer\/.build\/checkouts\/console.git--2431895819212044213\/",
     "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++97D2B5B" : "MovieServer\/.build\/checkouts\/core.git-9210800844849382486\/",
     "9948E95A70F754B78E92114BF205DC946294AF5D+++A40725D" : "MovieServer\/.build\/checkouts\/json.git-9153249592855998091\/",
     "F024B372FCFF470DA20DD02157DAACC2E58B7655+++5AB2AE1" : "MovieServer\/.build\/checkouts\/bcrypt.git-6177224099894028443\/",
-    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++FD5DAD5" : "MovieServer\/.build\/checkouts\/vapor.git-5492988889259800272\/",
-    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++213BF40" : "MovieServer\/.build\/checkouts\/routing.git-5366657101075133678\/"
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++213BF40" : "MovieServer\/.build\/checkouts\/routing.git-5366657101075133678\/",
+    "52AFDBC9624F22D94526E36BBEE271C6D7FC65D3+++FD5DAD5" : "MovieServer\/.build\/checkouts\/vapor.git-5492988889259800272\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "MovieServer",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -65,6 +65,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/rob\/Documents\/Git\/MovieServer\/.build\/repositories\/crypto.git-7980259129511365902",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "07D38DC615E8ADA07E68B7DA8DD8A2654638A334+++8911D13"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rgilbe13\/MovieServer.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "333032CAEECD0114B161D5453552537A257267CB+++882EC41"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/rob\/Documents\/Git\/MovieServer\/.build\/repositories\/bits.git-9196587591774126515",
@@ -120,11 +125,6 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/rob\/Documents\/Git\/MovieServer\/.build\/repositories\/console.git--2431895819212044213",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "748C9296F4CFA6FB6918A0C73ECFD0DCCA1E2109+++371A18D"
-    },
-    {
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/rgilbe13\/MovieServer.git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "91CF19801797B957666C096B5D73719A452A0E83+++882EC41"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/rob\/Documents\/Git\/MovieServer\/.build\/repositories\/json.git-9153249592855998091",
